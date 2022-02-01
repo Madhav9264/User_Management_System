@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "FirstName": "Madhav",
+      "LastName": "Godale",
+      "Email": "madhavgodalemg@gmail.com",
+      "Image": "C:\\fakepath\\Passport1.jpg"
+    },
+    {
+      "id": 2,
+      "FirstName": "Dnyaneshwar",
+      "LastName": "Patkulkar",
+      "Email": "dpatkulkar@gmail.com",
+      "Image": "C:\\fakepath\\Passport.jpg"
+    },
+    {
+      "id": 3,
+      "FirstName": "Payal",
+      "LastName": "Jagtap",
+      "Email": "payaljagtap50@gmail.com",
+      "Image": "C:\\fakepath\\Passport1.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
